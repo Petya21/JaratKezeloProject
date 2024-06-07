@@ -1,0 +1,5 @@
+C:\Users\Otthon\source\repos\JaratKezeloProject\JaratKezeloProject\obj\Debug\net6.0\JaratKezeloProject.csproj.AssemblyReference.cache
+C:\Users\Otthon\source\repos\JaratKezeloProject\JaratKezeloProject\obj\Debug\net6.0\JaratKezeloProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otthon\source\repos\JaratKezeloProject\JaratKezeloProject\obj\Debug\net6.0\JaratKezeloProject.AssemblyInfoInputs.cache
+C:\Users\Otthon\source\repos\JaratKezeloProject\JaratKezeloProject\obj\Debug\net6.0\JaratKezeloProject.AssemblyInfo.cs
+C:\Users\Otthon\source\repos\JaratKezeloProject\JaratKezeloProject\obj\Debug\net6.0\JaratKezeloProject.csproj.CoreCompileInputs.cache
